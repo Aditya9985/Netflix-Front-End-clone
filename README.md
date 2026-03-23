@@ -2,9 +2,6 @@
 
 A front-end UI clone inspired by Netflix. This project focuses on recreating a Netflix-like browsing experience with a responsive layout and reusable UI components.
 
-## Demo
-- Live Demo: _(add link if deployed)_
-
 ## Features
 - Netflix-style landing/browse UI
 - Responsive layout (desktop/tablet/mobile)
@@ -16,8 +13,6 @@ A front-end UI clone inspired by Netflix. This project focuses on recreating a N
 - HTML
 - CSS
 - JavaScript
-
-_(If your repo uses React/Vite/CRA, update this section accordingly.)_
 
 ## Getting Started
 
@@ -40,23 +35,6 @@ Or use any simple static server, for example:
 ```bash
 npx serve
 ```
-
-## Project Structure
-_(May vary depending on your implementation.)_
-
-```text
-Netflix-Front-End-clone/
-├─ assets/            # Images, icons, etc.
-├─ css/               # Stylesheets
-├─ js/                # JavaScript files
-├─ index.html
-└─ README.md
-```
-
-## Screenshots
-Add screenshots/GIFs here:
-- `./assets/screenshot-1.png`
-- `./assets/screenshot-2.png`
 
 ## Contributing
 Contributions are welcome.
